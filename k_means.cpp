@@ -6,7 +6,7 @@
 //QUANT: quantidade de objetos a serem avaliados
 //CAR: quantidade de caracteristcas de cada objeto a serem levadas em consideracao
 #define QUANT 150
-#define CAR 3
+#define CAR 4
 
 using namespace std;
 
